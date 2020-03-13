@@ -4,8 +4,6 @@
 # 直连：top500 网站中可直连的境外网站、中国网站
 # 代理：默认代理其余的所有境外网站
 # 不包含广告过滤
-#
-
 # top500 direct list update time: 2020-03-13 13:08:12
 DOMAIN-SUFFIX,123movies.to,Direct
 DOMAIN-SUFFIX,163.com,Direct
@@ -294,10 +292,6 @@ DOMAIN-SUFFIX,zillow.com,Direct
 DOMAIN-SUFFIX,zoho.com,Direct
 DOMAIN-SUFFIX,zone-telechargement.com,Direct
 
-
-DOMAIN-SUFFIX,cn,DIRECT
-GEOIP,CN,DIRECT
-
 # 手工定义的 Direct 列表
 #153
 DOMAIN-SUFFIX,icloud-content.com,Direct
@@ -313,12 +307,6 @@ DOMAIN-SUFFIX,cabdirect.org,Direct
 DOMAIN-SUFFIX,ieee.org,Direct
 DOMAIN-SUFFIX,nature.com,Direct
 DOMAIN-SUFFIX,osapublishing.org,Direct
-
-
-IP-CIDR,192.168.0.0/16,DIRECT
-IP-CIDR,10.0.0.0/8,DIRECT
-IP-CIDR,172.16.0.0/12,DIRECT
-IP-CIDR,127.0.0.0/8,DIRECT
 
 
 
